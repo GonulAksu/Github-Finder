@@ -1,0 +1,10 @@
+@import './bootstrap_overrides.scss';
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+@import './style.scss';
+
+//main scss içerisinde bootstrap'i ezmek içiin kullanacağımız css kodları
+
+//bootstrap içerisinden gelen componentler (kullanmadığımız componenti yorumsatırına alabiliriz- bootsrap.css içerisi componentler ile dolu)
+//yada bu componentleir buraya parça parça alabiliriz
+
+//bootstrap haricinde kendi yazacağımız css kodları
